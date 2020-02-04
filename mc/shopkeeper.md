@@ -4,8 +4,8 @@
 
 1. gewünschte Skin suchen (z.B. [hier](https://de.namemc.com/minecraft-skins)), Namen des Spielers merken
 1. an die gewünschte Stelle gehen (Umplazieren ist möglich)
-1. `/npc create GewünschterName`
-1. `/npc skin GemerkterSpielername`
+1. `/npc create GewünschterName` (falls es ein bestehender NPC ist: diesen ansehen und `/npc select`)
+1. `/npc skin GemerkterSpielername` (auf Survival geht auch `/npc skin -u <URL zur Skin>`)
    
    Dies ist nicht nötig, falls _GewünschterName_ und _GemerkterSpielername_ identisch sind.
 1. `/trait shopkeeper`
